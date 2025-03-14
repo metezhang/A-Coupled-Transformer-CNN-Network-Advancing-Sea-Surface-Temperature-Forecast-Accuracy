@@ -1,0 +1,2 @@
+# A Coupled Transformer-CNN Network: Advancing Sea Surface Temperature Forecast Accuracy
+This repository contains the official implementation of the paper: "A Coupled Transformer-CNN Network: Advancing Sea Surface Temperature Forecast Accuracy" This is a novel model combining the strengths of the Swin Transformer and CNN architectures to enhance the accuracy and stability of sea surface temperature (SST) forecasting.
