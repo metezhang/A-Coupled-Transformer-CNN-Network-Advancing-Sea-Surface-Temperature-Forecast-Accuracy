@@ -30,12 +30,12 @@ If you use this code or dataset, please cite our paper:
 ```bibtex
 @ARTICLE{11017748,
   author={Zhang, Tao and Lin, Pengfei and Liu, Hailong and Wang, Pengfei and Wang, Ya and Xu, Kai and Zheng, Weipeng and Li, Yiwen and Jiang, Jinrong and Zhao, Lian and Chen, Jian},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={A Coupled Transformer-CNN Network: Advancing Sea Surface Temperature Forecast Accuracy}, 
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={A Coupled Transformer–CNN Network: Advancing Sea Surface Temperature Forecast Accuracy},
   year={2025},
-  volume={},
+  volume={63},
   number={},
-  pages={1-1},
-  keywords={Feature extraction;Transformers;Forecasting;Predictive models;Computer architecture;Accuracy;Atmospheric modeling;Convolutional neural networks;Training;Spatiotemporal phenomena;sea surface temperature;forecast;hybrid neural network;multi-scale},
-  doi={10.1109/TGRS.2025.3574990}
-}
+  pages={1-14},
+  keywords={Feature extraction;Transformers;Forecasting;Predictive models;Computer architecture;Accuracy;Atmospheric modeling;Convolutional neural networks;Training;Spatiotemporal phenomena;Forecast;hybrid neural network;multiscale;sea surface temperature (SST)},
+  doi={10.1109/TGRS.2025.3574990}}
+
